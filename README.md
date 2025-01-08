@@ -4,20 +4,20 @@ Welcome to my data analyst portfolio! Below you'll find examples of my work, inc
 
 ## Projects
 
-### 1. **Customer Retention and Churn Analysis**
-   - **Skills:** SQL, Python, Data Cleaning, Data Visualization
-   - **Summary:** Analyzed customer churn data for a telecom company, providing actionable insights for improving retention strategies.
-   - **Technologies Used:** Python, Pandas, Matplotlib, Seaborn, SQL
-
-### 2. **Credit Risk Analysis on Financial Data**
+### 1. **Credit Risk Analysis on Financial Data**
    - **Skills:** Data Wrangling, Predictive Modeling, Risk Analysis
    - **Summary:** Analyzed financial data to predict loan defaults and assess credit risk.
    - **Technologies Used:** SQL, Python, Scikit-learn
 
-### 3. **Fraud Detection in Healthcare Insurance**
-   - **Skills:** Data Preprocessing, Predictive Modeling, Anomaly Detection
-   - **Summary:** Used machine learning techniques to detect fraudulent claims in healthcare insurance data, improving the accuracy and efficiency of fraud detection systems.
-   - **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib
+### 2. **Sales Analysis with SQL**
+   - **Skills:** Advanced SQL Queries, Data Aggregation, Joins, Subqueries,CTEs
+   - **Summary:** Designed and executed advanced SQL queries to analyze sales data, uncovering trends, customer behavior, and product performance metrics.
+   - **Technologies Used:** PostgreSQL
+
+### 3. **Customer Retention and Churn Analysis**
+   - **Skills:** SQL, Python, Data Cleaning, Data Visualization
+   - **Summary:** Analyzed customer churn data for a telecom company, providing actionable insights for improving retention strategies.
+   - **Technologies Used:** Python, Pandas, Matplotlib, Seaborn, SQL
 
 ## Technologies I Use
 - SQL PostgreSQL
